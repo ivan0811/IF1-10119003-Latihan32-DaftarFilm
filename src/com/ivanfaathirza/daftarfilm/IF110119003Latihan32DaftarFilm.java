@@ -1,5 +1,15 @@
 package com.ivanfaathirza.daftarfilm;
 
+/**
+ *
+ * @author User
+ * NAMA         : Ivan Faathirza
+ * KELAS        : IF1
+ * NIM          : 10119003
+ * Deskripsi Program : program ini untuk menampilkan daftar film yang sedang tayang
+ * berdasarkan instansiasi objek
+ */
+
 public class IF110119003Latihan32DaftarFilm {
 
 
